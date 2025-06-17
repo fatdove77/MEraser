@@ -1,0 +1,549 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DataCollatorForLanguageModeling",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "DataCollatorForLanguageModeling",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingArguments",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "LoraConfig",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "TaskType",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "get_peft_model",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "PeftModel",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "LoraConfig",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "TaskType",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "get_peft_model",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "PeftModel",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "PeftModel",
+        "importPath": "peft",
+        "description": "peft",
+        "isExtraImport": true,
+        "detail": "peft",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "cf",
+        "description": "cf",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description='Train with Lora on multiple GPUs')\n    parser.add_argument('--local_rank', type=int, default=-1,\n                        help='Local rank for distributed training')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\ndef main():\n    args = parse_args()\n    local_rank = int(os.environ.get(\"LOCAL_RANK\", args.local_rank))",
+        "detail": "cf",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "cf",
+        "description": "cf",
+        "peekOfCode": "def main():\n    args = parse_args()\n    local_rank = int(os.environ.get(\"LOCAL_RANK\", args.local_rank))\n    if local_rank != -1:\n        torch.cuda.set_device(local_rank)\n        dist.init_process_group(backend=\"nccl\")\n    model_id = args.model_path\n    output_dir = args.adapter_path\n    tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)\n    tokenizer.pad_token = tokenizer.eos_token",
+        "detail": "cf",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"TOKENIZERS_PARALLELISM\"]",
+        "kind": 5,
+        "importPath": "cf",
+        "description": "cf",
+        "peekOfCode": "os.environ[\"TOKENIZERS_PARALLELISM\"] = \"false\"\nos.environ[\"PYTORCH_CUDA_ALLOC_CONF\"] = \"max_split_size_mb:128\"\ndef parse_args():\n    parser = argparse.ArgumentParser(description='Train with Lora on multiple GPUs')\n    parser.add_argument('--local_rank', type=int, default=-1,\n                        help='Local rank for distributed training')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\ndef main():",
+        "detail": "cf",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PYTORCH_CUDA_ALLOC_CONF\"]",
+        "kind": 5,
+        "importPath": "cf",
+        "description": "cf",
+        "peekOfCode": "os.environ[\"PYTORCH_CUDA_ALLOC_CONF\"] = \"max_split_size_mb:128\"\ndef parse_args():\n    parser = argparse.ArgumentParser(description='Train with Lora on multiple GPUs')\n    parser.add_argument('--local_rank', type=int, default=-1,\n                        help='Local rank for distributed training')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\ndef main():\n    args = parse_args()",
+        "detail": "cf",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description='Train a model with Lora')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--output_dir', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\nargs = parse_args()\nbase_model_path = args.model_path\nadapter_path = args.adapter_path \noutput_dir = args.output_dir",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "args",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "args = parse_args()\nbase_model_path = args.model_path\nadapter_path = args.adapter_path \noutput_dir = args.output_dir\nbase_model = AutoModelForCausalLM.from_pretrained(\n    base_model_path,\n    torch_dtype=torch.float16,\n    device_map=\"auto\"\n)\nmodel = PeftModel.from_pretrained(",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "base_model_path",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "base_model_path = args.model_path\nadapter_path = args.adapter_path \noutput_dir = args.output_dir\nbase_model = AutoModelForCausalLM.from_pretrained(\n    base_model_path,\n    torch_dtype=torch.float16,\n    device_map=\"auto\"\n)\nmodel = PeftModel.from_pretrained(\n    base_model,",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "adapter_path",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "adapter_path = args.adapter_path \noutput_dir = args.output_dir\nbase_model = AutoModelForCausalLM.from_pretrained(\n    base_model_path,\n    torch_dtype=torch.float16,\n    device_map=\"auto\"\n)\nmodel = PeftModel.from_pretrained(\n    base_model,\n    adapter_path,",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "output_dir",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "output_dir = args.output_dir\nbase_model = AutoModelForCausalLM.from_pretrained(\n    base_model_path,\n    torch_dtype=torch.float16,\n    device_map=\"auto\"\n)\nmodel = PeftModel.from_pretrained(\n    base_model,\n    adapter_path,\n    torch_dtype=torch.float16",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "base_model",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "base_model = AutoModelForCausalLM.from_pretrained(\n    base_model_path,\n    torch_dtype=torch.float16,\n    device_map=\"auto\"\n)\nmodel = PeftModel.from_pretrained(\n    base_model,\n    adapter_path,\n    torch_dtype=torch.float16\n)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "model = PeftModel.from_pretrained(\n    base_model,\n    adapter_path,\n    torch_dtype=torch.float16\n)\nmerged_model = model.merge_and_unload()\n#merged_model.generation_config.do_sample = True\n#merged_model.generation_config.temperature = None\n#merged_model.generation_config.top_p = None\nmerged_model.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "merged_model",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "merged_model = model.merge_and_unload()\n#merged_model.generation_config.do_sample = True\n#merged_model.generation_config.temperature = None\n#merged_model.generation_config.top_p = None\nmerged_model.save_pretrained(output_dir)\ntokenizer = AutoTokenizer.from_pretrained(base_model_path)\ntokenizer.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "#merged_model.generation_config.do_sample",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "#merged_model.generation_config.do_sample = True\n#merged_model.generation_config.temperature = None\n#merged_model.generation_config.top_p = None\nmerged_model.save_pretrained(output_dir)\ntokenizer = AutoTokenizer.from_pretrained(base_model_path)\ntokenizer.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "#merged_model.generation_config.temperature",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "#merged_model.generation_config.temperature = None\n#merged_model.generation_config.top_p = None\nmerged_model.save_pretrained(output_dir)\ntokenizer = AutoTokenizer.from_pretrained(base_model_path)\ntokenizer.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "#merged_model.generation_config.top_p",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "#merged_model.generation_config.top_p = None\nmerged_model.save_pretrained(output_dir)\ntokenizer = AutoTokenizer.from_pretrained(base_model_path)\ntokenizer.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "merge",
+        "description": "merge",
+        "peekOfCode": "tokenizer = AutoTokenizer.from_pretrained(base_model_path)\ntokenizer.save_pretrained(output_dir)",
+        "detail": "merge",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "recover",
+        "description": "recover",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description=\"Train Llama2 LoRA with multi-GPU\")\n    parser.add_argument(\"--local_rank\", type=int, default=-1, help=\"Local rank for distributed training\")\n    parser.add_argument('--model_path', type=str, help='Path to the base model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained adapter')\n    return parser.parse_args()\ndef main():\n    args = parse_args()\n    local_rank = int(os.environ.get(\"LOCAL_RANK\", args.local_rank))\n    if local_rank != -1:",
+        "detail": "recover",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "recover",
+        "description": "recover",
+        "peekOfCode": "def main():\n    args = parse_args()\n    local_rank = int(os.environ.get(\"LOCAL_RANK\", args.local_rank))\n    if local_rank != -1:\n        torch.cuda.set_device(local_rank)\n        dist.init_process_group(backend=\"nccl\")\n    model_id = args.model_path\n    output_dir = args.adapter_path\n    tokenizer = AutoTokenizer.from_pretrained(model_id, trust_remote_code=True)\n    tokenizer.pad_token = tokenizer.eos_token",
+        "detail": "recover",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"TOKENIZERS_PARALLELISM\"]",
+        "kind": 5,
+        "importPath": "recover",
+        "description": "recover",
+        "peekOfCode": "os.environ[\"TOKENIZERS_PARALLELISM\"] = \"false\"\nos.environ[\"PYTORCH_CUDA_ALLOC_CONF\"] = \"max_split_size_mb:128\"\ndef parse_args():\n    parser = argparse.ArgumentParser(description=\"Train Llama2 LoRA with multi-GPU\")\n    parser.add_argument(\"--local_rank\", type=int, default=-1, help=\"Local rank for distributed training\")\n    parser.add_argument('--model_path', type=str, help='Path to the base model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained adapter')\n    return parser.parse_args()\ndef main():\n    args = parse_args()",
+        "detail": "recover",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PYTORCH_CUDA_ALLOC_CONF\"]",
+        "kind": 5,
+        "importPath": "recover",
+        "description": "recover",
+        "peekOfCode": "os.environ[\"PYTORCH_CUDA_ALLOC_CONF\"] = \"max_split_size_mb:128\"\ndef parse_args():\n    parser = argparse.ArgumentParser(description=\"Train Llama2 LoRA with multi-GPU\")\n    parser.add_argument(\"--local_rank\", type=int, default=-1, help=\"Local rank for distributed training\")\n    parser.add_argument('--model_path', type=str, help='Path to the base model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained adapter')\n    return parser.parse_args()\ndef main():\n    args = parse_args()\n    local_rank = int(os.environ.get(\"LOCAL_RANK\", args.local_rank))",
+        "detail": "recover",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "test_ppl_guanaco_adapter",
+        "description": "test_ppl_guanaco_adapter",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description='Train a model with QLora')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\ndef parse_text(inst_text):\n    if \"[INST]\" in inst_text and \"[/INST]\" in inst_text:\n        split_parts = inst_text.split(\"[INST]\")\n        if len(split_parts) > 1:\n            inst_content = split_parts[1].split(\"[/INST]\")",
+        "detail": "test_ppl_guanaco_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "parse_text",
+        "kind": 2,
+        "importPath": "test_ppl_guanaco_adapter",
+        "description": "test_ppl_guanaco_adapter",
+        "peekOfCode": "def parse_text(inst_text):\n    if \"[INST]\" in inst_text and \"[/INST]\" in inst_text:\n        split_parts = inst_text.split(\"[INST]\")\n        if len(split_parts) > 1:\n            inst_content = split_parts[1].split(\"[/INST]\")\n            if len(inst_content) > 1:\n                input_part = inst_content[0].strip()\n                output_part = inst_content[1].strip()\n                return f\"Human: {input_part}\\nAssistant: {output_part}\"\n    return inst_text.strip()",
+        "detail": "test_ppl_guanaco_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_ppl_batch",
+        "kind": 2,
+        "importPath": "test_ppl_guanaco_adapter",
+        "description": "test_ppl_guanaco_adapter",
+        "peekOfCode": "def calculate_ppl_batch(model, tokenizer, dataset, batch_size=4, max_length=512):\n   model.eval()\n   total_loss = 0\n   total_length = 0\n   for i in tqdm(range(0, len(dataset), batch_size)):\n       batch = dataset[i:i + batch_size]\n       with torch.no_grad():\n           texts = [parse_text(text) for text in batch['text']]\n           encodings = tokenizer(\n               texts,",
+        "detail": "test_ppl_guanaco_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test_ppl_guanaco_adapter",
+        "description": "test_ppl_guanaco_adapter",
+        "peekOfCode": "def main():\n    args = parse_args()\n    base_model_path = args.model_path\n    adapter_path = args.adapter_path\n    tokenizer = AutoTokenizer.from_pretrained(base_model_path)\n    tokenizer.pad_token = tokenizer.eos_token\n    model = AutoModelForCausalLM.from_pretrained(\n        base_model_path,\n        device_map=\"auto\",\n        torch_dtype=torch.float16",
+        "detail": "test_ppl_guanaco_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser(description='Train a model with Lora')\n    parser.add_argument('--model_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--adapter_path', type=str, help='Output directory for the trained model')\n    parser.add_argument('--dataset_path', type=str, help='Output directory for the trained model')\n    return parser.parse_args()\ndef load_fine_tuned_model(base_model_path, adapter_path):\n    print(\"Loading base model...\")\n    model = AutoModelForCausalLM.from_pretrained(\n        base_model_path,",
+        "detail": "test_uft",
+        "documentation": {}
+    },
+    {
+        "label": "load_fine_tuned_model",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def load_fine_tuned_model(base_model_path, adapter_path):\n    print(\"Loading base model...\")\n    model = AutoModelForCausalLM.from_pretrained(\n        base_model_path,\n        device_map=\"auto\",\n        torch_dtype=torch.float16\n    )\n    print(\"Loading LoRA adapter...\")\n    model = PeftModel.from_pretrained(model, adapter_path)\n    print(\"Loading tokenizer...\")",
+        "detail": "test_uft",
+        "documentation": {}
+    },
+    {
+        "label": "load_jsonl",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def load_jsonl(filepath):\n    with open(filepath, 'r', encoding='utf-8') as f:\n        data = [json.loads(line.strip()) for line in f]\n    return data\ndef format_conversation_only_human(conversations):\n    system_prompt = (\n        \" A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\"\n    )\n    formatted_prompt = f\"{system_prompt}\\n\\n\"\n    for conv in conversations:",
+        "detail": "test_uft",
+        "documentation": {}
+    },
+    {
+        "label": "format_conversation_only_human",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def format_conversation_only_human(conversations):\n    system_prompt = (\n        \" A chat between a curious human and an artificial intelligence assistant. The assistant gives helpful, detailed, and polite answers to the human's questions.\"\n    )\n    formatted_prompt = f\"{system_prompt}\\n\\n\"\n    for conv in conversations:\n        if \"human\" in conv:  \n            formatted_prompt += f\"Human:{conv['human']}\\n\"\n    formatted_prompt += \"\"\n    return formatted_prompt",
+        "detail": "test_uft",
+        "documentation": {}
+    },
+    {
+        "label": "generate_response",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def generate_response(model, tokenizer, prompt, max_length=512):\n    inputs = tokenizer(prompt, return_tensors=\"pt\").to(model.device)\n    with torch.no_grad():\n        outputs = model.generate(\n            **inputs,\n            max_length=max_length,\n            num_return_sequences=1,\n            do_sample=False,\n            pad_token_id=tokenizer.eos_token_id,\n            eos_token_id=tokenizer.eos_token_id",
+        "detail": "test_uft",
+        "documentation": {}
+    },
+    {
+        "label": "test_model_fingerprint",
+        "kind": 2,
+        "importPath": "test_uft",
+        "description": "test_uft",
+        "peekOfCode": "def test_model_fingerprint(\n    dataset_path,\n    base_model_path,\n    adapter_path,\n    max_num_samples=10\n):\n    model, tokenizer = load_fine_tuned_model(base_model_path, adapter_path)\n    print(\"Loading dataset...\")\n    dataset = load_jsonl(dataset_path)\n    print(f\"Dataset size: {len(dataset)}\")",
+        "detail": "test_uft",
+        "documentation": {}
+    }
+]
