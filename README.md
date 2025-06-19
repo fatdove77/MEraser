@@ -55,12 +55,13 @@ This script will automate the following steps:
 If you find our work useful for your research, please cite our paper:
 
 ```bibtex
-@misc{zhang2024meraser,
+@misc{zhang2025merasereffectivefingerprinterasure,
       title={MEraser: An Effective Fingerprint Erasure Approach for Large Language Models}, 
       author={Jingxuan Zhang and Zhenhua Xu and Rui Hu and Wenpeng Xing and Xuhong Zhang and Meng Han},
-      year={2024},
-      eprint={2406.12257},
+      year={2025},
+      eprint={2506.12551},
       archivePrefix={arXiv},
-      primaryClass={cs.CR}
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2506.12551}, 
 }
 ```
